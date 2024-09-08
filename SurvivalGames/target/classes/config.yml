@@ -1,0 +1,25 @@
+# Survival Games Configuration
+
+# Duration of the grace period in seconds
+grace-period-duration: 30
+
+# Interval between supply drops in seconds
+supply-drop-interval: 30
+
+# Initial world border size
+initial-border-size: 10000
+
+# Final world border size
+final-border-size: 10000
+
+# Initial border radius
+initial-border-radius: 10000
+
+# Final border radius
+final-border-radius: 10000
+
+# Time for the border to shrink in seconds
+border-shrink-time: 100000
+
+# Interval between random events in seconds
+random-event-interval: 60

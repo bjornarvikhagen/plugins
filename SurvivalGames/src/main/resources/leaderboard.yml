@@ -1,0 +1,52 @@
+# Survival Games Leaderboard
+# This file contains player statistics
+
+"550e8400-e29b-41d4-a716-446655440000":
+  name: Steve
+  gamesPlayed: 15
+  gamesWon: 3
+
+"f47ac10b-58cc-4372-a567-0e02b2c3d479":
+  name: Alex
+  gamesPlayed: 20
+  gamesWon: 5
+
+"7e716d61-2ef6-4d32-8f69-4c9bc4f1c14e":
+  name: Notch
+  gamesPlayed: 10
+  gamesWon: 2
+
+"9f86d081-884c-4d63-8dec-94512d4f5010":
+  name: Herobrine
+  gamesPlayed: 30
+  gamesWon: 8
+
+"84a516841ba77a5b4648de2cd0dfcb30":
+  name: Enderman
+  gamesPlayed: 25
+  gamesWon: 6
+
+"3c6e0b8a9c15224a8228b9a98ca1531d":
+  name: Creeper
+  gamesPlayed: 18
+  gamesWon: 4
+
+"b6589fc6ab0dc82cf12099d1c2d40ab994e8410c":
+  name: Zombie
+  gamesPlayed: 12
+  gamesWon: 1
+
+"356a192b7913b04c54574d18c28d46e6395428ab":
+  name: Skeleton
+  gamesPlayed: 22
+  gamesWon: 5
+
+"da4b9237bacccdf19c0760cab7aec4a8359010b0":
+  name: Pig
+  gamesPlayed: 8
+  gamesWon: 0
+
+"77de68daecd823babbb58edb1c8e14d7106e83bb":
+  name: Villager
+  gamesPlayed: 17
+  gamesWon: 3

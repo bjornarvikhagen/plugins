@@ -1,0 +1,13 @@
+name: FastFly
+version: 1.0
+main: org.bjornar.fastFly.FastFly
+api-version: 1.13
+commands:
+  fastfly:
+    description: Toggle fast fly mode
+    usage: /<command>
+    permission: fastfly.use
+permissions:
+  fastfly.use:
+    description: Allows players to use the fast fly command
+    default: op

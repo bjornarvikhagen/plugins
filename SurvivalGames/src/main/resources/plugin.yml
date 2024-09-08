@@ -1,0 +1,23 @@
+name: SurvivalGames
+version: '${project.version}'
+main: org.bjornar.survivalGames.SurvivalGames
+api-version: '1.20'
+commands:
+  start:
+    description: Starts the Survival Games
+    usage: /<command>
+  setspawn:
+    description: Sets a spawn point for the Survival Games
+    usage: /<command>
+  stats:
+    description: Shows your Survival Games statistics
+    usage: /<command>
+  leaderboard:
+    description: Shows the top players in Survival Games
+    usage: /<command>
+  setborder:
+    description: Gives you a stick to set the game border
+    usage: /<command>
+  setlobby:
+    description: Sets the lobby location for before and after games
+    usage: /<command>
